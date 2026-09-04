@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int firstStableIndex(vector<int>& nums, int k) {
+        int suf[100];
+        int n = nums.size();
+        suf[n-1] = nums.back();
+        for(int i=n-2; i>=0; i--)
+            suf[i] = min(suf[i+1], nums[i]);
+        
+        int maxsofar = 0;
+        for(int i=0; i<n; i++){
+            maxsofar = max(maxsofar, nums[i]);
+            if(maxsofar - suf[i] <= k)
+                return i;
+        }
+        return -1;
+    }
+};
