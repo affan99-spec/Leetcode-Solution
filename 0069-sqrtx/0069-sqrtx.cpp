@@ -10,9 +10,7 @@ public:
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-
             long long square = 1LL * mid * mid;
-
             if (square == x) {
                 return mid;
             }
@@ -24,7 +22,6 @@ public:
                 high = mid - 1;
             }
         }
-
         return ans;
     }
 };
