@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
