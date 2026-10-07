@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0050-powx-n) |
 ## Newton's Method
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
