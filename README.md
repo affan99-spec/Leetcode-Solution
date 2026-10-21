@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
