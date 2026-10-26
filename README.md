@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [3903-smallest-stable-index-i](https://github.com/affan99-spec/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
 ## Dynamic Programming
 |  |
@@ -122,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
