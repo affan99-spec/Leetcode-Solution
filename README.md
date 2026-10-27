@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0704-binary-search) |
 | [3903-smallest-stable-index-i](https://github.com/affan99-spec/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
