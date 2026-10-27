@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
