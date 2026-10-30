@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0704-binary-search) |
 | [3903-smallest-stable-index-i](https://github.com/affan99-spec/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,20 +208,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
