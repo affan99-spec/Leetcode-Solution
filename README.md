@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Quicksort
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -209,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/affan99-spec/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
